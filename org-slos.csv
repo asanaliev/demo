@@ -1,2 +1,5 @@
-SLO,Value (Target),Error budget
+SLO,Value (Target),Error budget (Target)
 Add to Card - Subscription,99.392% (99.95%),-54.5 (4.5)
+Add to Card - One-time-purchase,99.392% (99.95%),-54.5 (4.5)
+Checkout Page,100% (99.95%),4.5 (4.5)
+Create Product,100% (99.95%),4.5 (4.5)
